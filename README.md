@@ -6,10 +6,10 @@ Tento repozitár obsahuje príklady na precvičenie si používania:
 * lambda výrazov
 * spracovania zoznamov (list comprehension)
 
-Úložisko je rozdelené do troch adresárov:
+Úložisko je rozdelené do troch adresárov. Odporúčam ich prechádzať v tomto poradí:
 
-* `higher_order_functions`
-* `list_comprehension`
-* `lambda`
+1. `lambda`
+2. `list_comprehension`
+3. `higher_order_functions` 
 
 V každom adresári sú príklady s predpripravenými prázdnymi funkciami a testy, na zistenie, či váš kód robí to čo má.
