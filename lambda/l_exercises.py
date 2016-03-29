@@ -5,24 +5,24 @@
 
 # Uloha 1:
 def make_square():
-    return(lambda x: x*x)
+    pass
 
 
 # Uloha 2:
 def make_upper():
-    return(lambda x: x.upper())
+    pass
 
 
 # Uloha 3:
 def make_power():
-    return(lambda x, N: x ** N)
+    pass
 
 
 # Uloha 4:
 def make_power2(N):
-    return(lambda x: x ** N)
+    pass
 
 
 # Uloha 5:
 def call_name():
-    return(lambda x, name: getattr(x, name)())
+    pass
