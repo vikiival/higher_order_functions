@@ -39,11 +39,13 @@ Vsetky tdalsie ulohy by ste mali spravit pomocou list comprehension.
 14. Pomocou dvoch spojenych list comprehensions spojte dva zoznamy prvkov do dvojic. 
 Vytvrote vsetky mozne dvojice, kde vzdy prvy prvok je z prveho zoznamu a druhy z druheho.
 
-15. Napiste funkciu, ktora vytvori dvojrozmerne pole s rozmermy podla atributov `(pocet_riadkov, pocet_stlpcov)` a inicializuje ho na `None` alebo na hodnotu zadanu tretim nepovinnym atributom.
+15. Napiste funkciu, ktora vypise vsetky mozne kombinacie, ktore mozu padnut na dvoch hracich kockach. Kocky sa nedaju rozlisit.
 
-16. Napiste funkciu, ktora vrati zoznam vsetkych dvojprvkovych kominacii prvkov zo zoznamu (s opakovanim, zalezi na poradi)
+16. Napiste funkciu, ktora vytvori dvojrozmerne pole s rozmermy podla atributov `(pocet_riadkov, pocet_stlpcov)` a inicializuje ho na `None` alebo na hodnotu zadanu tretim nepovinnym atributom.
 
-17. Napiste funkciu, ktora vrati zoznam vsetkych dvojprvkovych kominacii prvkov zo zoznamu (bez opakovania, zalezi na poradi)
+17. Napiste funkciu, ktora vrati zoznam vsetkych dvojprvkovych kominacii prvkov zo zoznamu (s opakovanim, zalezi na poradi)
 
-18. Napiste funkciu, ktor anajde vsetky Pytagorovske trojice cisel `(x,y,z)` mensie ako `N`. Pytagorovske cisla su take, pre ktore plati `x*x + y*y == z*z`
+18. Napiste funkciu, ktora vrati zoznam vsetkych dvojprvkovych kominacii prvkov zo zoznamu (bez opakovania, zalezi na poradi)
+
+19. Napiste funkciu, ktor anajde vsetky Pytagorovske trojice cisel `(x,y,z)` mensie ako `N`. Pytagorovske cisla su take, pre ktore plati `x*x + y*y == z*z`
 

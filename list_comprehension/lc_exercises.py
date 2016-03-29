@@ -79,21 +79,26 @@ def word_combinations(list1, list2):
 
 
 # Uloha 15:
+def two_dices():
+    return [(x, y) for x in range(1,7) for y in range(x,7)]
+
+
+# Uloha 16:
 def array(dim1, dim2, init=None):
     return [[init for _ in range(dim2)] for _ in range(dim1)]
 
 
-# Uloha 16:
+# Uloha 17:
 def combinations_of_two(list):
     return [[a,b] for a in list for b in list]
 
 
-# Uloha 17:
+# Uloha 18:
 def combinations_of_two_no_rep(list):
     return [[a,b] for a in list for b in list if a != b]
 
 
-# Uloha 18:
+# Uloha 19:
 def pytagoreans(N):
     return [[x, y, z] for x in range(1, N) for y in range(x, N) for z in range(y, N) if x*x + y*y == z*z]
 
