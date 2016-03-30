@@ -1,6 +1,6 @@
 # Zoznam príkladov na precvičenie si lambda výrazov
 
-Tychto priklado je len velmi malo. 
+Tychto prikladov je len velmi malo. 
 Lambda vyrazy sa pouzivaju aj v prikladoch k funkciam vyssej urovne a k spracovaniu zoznamu, takze zaujemcom odporucam poziet sa na tie.
 
 1. Napíšte funkciu, ktorá vracia lambda výraz, ktorý počíta druhú mocninu čísla, ktoré dostáva ako parameter. 
@@ -15,3 +15,4 @@ Lambda vyraz dostava dva parametre: cislo, ktore chceme umocnit a mocnitel.
 Cislo N je parametrom funkcie, nie lambda vyrazu.
 
 5. Napiste funkciu, ktora vracia lambda vyraz, ktory zavola nad objektom funkciu, ktoru dostane druhym parametrom v podobe retazca
+[pomocka](https://docs.python.org/3/library/functions.html#getattr)
