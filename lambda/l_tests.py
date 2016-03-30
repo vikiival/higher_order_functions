@@ -30,3 +30,7 @@ class LambdaTests(unittest.TestCase):
     def test_call_name(self):
         l = le.call_name()
         self.assertEqual(l('ahoj', 'upper'), 'AHOJ')
+
+
+if __name__ == '__main__':
+    unittest.main()
