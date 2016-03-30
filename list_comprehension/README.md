@@ -1,4 +1,4 @@
-# Zoznam príkladov na precičenie si lambda výrazov
+# Zoznam príkladov na precvičenie spracovania zoznamu
 
 Su tu priklady na pristupovanie k roznym castiam zoznamov ako aj na list comprehension
 
