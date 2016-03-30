@@ -59,3 +59,6 @@ class HofTests(unittest.TestCase):
         self.assertEqual(sorted(hof.histogram('../data/holy_grail.txt').most_common(9), key=lambda x: x[0]),
                          [('1', 20), ('a', 14), ('arthur', 17), ('guard', 24), ('it', 10), ('not', 8), ('of', 15), ('the', 17), ('you', 8)])
 
+
+if __name__ == '__main__':
+    unittest.main()
