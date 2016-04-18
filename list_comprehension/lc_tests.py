@@ -55,7 +55,7 @@ class ListTests(unittest.TestCase):
 
     def test_replace_vowels(self):
         self.assertEqual(lc.replace_vowels("On second thought, let's not go to Camelot. It is a silly place."),
-                         "On s0c0nd th00ght, l0t's n0t g0 t0 C0m0l0t. It 0s 0 s0ll0 pl0c0.")
+                         "0n s0c0nd th00ght, l0t's n0t g0 t0 C0m0l0t. 0t 0s 0 s0ll0 pl0c0.")
 
 
     def test_word_combinations(self):
