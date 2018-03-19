@@ -1,2 +1,6 @@
 .idea/
 lambda/__pycache__/
+metastore_db/
+derby.log
+.ipynb_checkpoints/
+
